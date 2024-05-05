@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@napi-rs/cli": "^2.18.2"
+  },
+  "scripts": {
+    "build": "napi build"
+  }
+}
